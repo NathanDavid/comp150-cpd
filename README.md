@@ -191,3 +191,58 @@ numbers, how interpolation tries to fix jerky movement by rendering in-between
 updates and how substepping tries to be the best of both fixed and variable
 time steps. I then tried to implement this knowledge into my game project.
 
+## Week 5
+
+
+One challenge that I faced over the past week was learning
+how to read Chen, Crows Foot, and UML notation symbols, this was quite odd for
+me as it is a very different way of looking at how different systems work, to
+fix this I went over the diagrams on the session slides in the learning space to
+make sure that I could differentiate from the different types of notation and
+why many different types of people would choose to use the different notations
+for vastly different reasons. This is because they can have many different
+useful applications in other industries.
+
+## Week 6
+
+
+One challenge that I faced over the past week was learning
+how to set up a UNIX Server, to fix this I went over the different tutorials on
+the Amazon Web Service and UNIX commands to be able to download, update, edit,
+and create different files. This can be used to store data remotely rather than
+having it saved to the device making it more efficient to data to be
+transferred to the game allowing for different systems to be more easily put in
+place such as a leader board for if you were making a game with competitive
+scoring.
+
+## Week 7
+
+
+One challenge that I faced over the past week was trying to
+efficiently use version control through SVN to make changes to my COMP160 game,
+there was a problem with how people were accessing the different revisions
+meaning the game wouldn’t load properly, to fix this we rolled back the game a
+few revisions to a working build and made sure that anyone working on the build
+was downloading and uploading the correct files to keep the game stable. This
+will ensure that the game will stay functional while being able to be quickly
+edited to add or remove features or assets.
+
+## Week 8
+
+
+One challenge that I found this week was trying to get
+different systems within the Unreal Engine 4 to work such as a selection system
+and rotational torque of a static object. This is vital to my game so it needed
+to be fixed for me to move on. To fix this I spent time in the studio with
+Brian and managed to get the issue fixed quickly as the code I had already
+produced was sufficient enough, I just needed to apply physics and add the
+blueprints to the player controller rather than the individual cubes I was
+testing the code on.
+
+## Week 9
+
+## Week 10
+
+## Week 11
+
+## Week 12
