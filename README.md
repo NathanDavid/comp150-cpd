@@ -1,5 +1,7 @@
 # comp150-cpd
 
+# Study Block 1
+
 ## Week 1
 
 
@@ -47,8 +49,6 @@ the information.
 One challenge that I faced was when I was designing the
 concept for the video game was trying to create something original that could
 be targeted at an already existing target audience while still making the game
-
-
 easy to make with an interesting premise, to overcome this I took inspiration
 from other video games to help shape what the gameplay and story would be and
 how different elements such as the music and the art style would change the
@@ -142,6 +142,8 @@ functioning we could not show our game demo making our pitch quite short and
 not as effective as it could have been. This could have been fixed by making
 sure that the presentation was slightly longer and that the demo was available
 to be used on a new computer, possibly by putting it on a memory stick.
+
+# Study Block 2
 
 ## Week 1
 
