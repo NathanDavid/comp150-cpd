@@ -243,6 +243,16 @@ testing the code on.
 
 ## Week 9
 
+
+One challenge I found this week was implementing realistic sky
+box into my COMP140 game as this was required to give it the correct aesthetic
+that was put down in the concept, this proved to be difficult as I have never
+created a sky box and have never needed to implement one in engine. To fix this
+I kept adding more layers until I had 19 to a program called Spacescape to add
+more detail to make it look more realistic. I then exported it as a DDS image
+and used a tutorial to show me how to change the properties of the file to then
+be able to add it as a sky box.
+
 ## Week 10
 
 ## Week 11
