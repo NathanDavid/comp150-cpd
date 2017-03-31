@@ -255,6 +255,27 @@ be able to add it as a sky box.
 
 ## Week 10
 
+
+One challenge I found this week was making sure that all my
+work was completed to the standard I wanted it to be at, this was difficult as
+it meant that for my COMP140 game I needed to use Maya in conjunction with the
+Unreal Engine 4 to create a texture that made the middle of the cube
+transparent while keeping the outline of the cube. To do this I got assistance
+while using Maya to make sure that I got all the sizing and the texturing
+correct before importing the texture into the unreal engine and applying it to
+the static meshes.
+
 ## Week 11
 
+
+One challenge I found this week was trying to make major
+edits to the game website through markdown notation as I have not done this
+before making it difficult to effectively change the website to make it look
+how I want it too with all the content that I needed to be there. To fix this I
+looked closer into markdown notation and kept editing the website to try and
+get it as close to how the games aesthetic looks, and including different
+things about the game such as promotional art, video, and information about the
+story of the game.
+
 ## Week 12
+
