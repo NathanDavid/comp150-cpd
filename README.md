@@ -279,3 +279,13 @@ story of the game.
 
 ## Week 12
 
+
+One challenge I found this week was trying to explain myself
+while trying to describe my work during the COMP130 Viva for the Worksheets and
+the Research Journal, this was due to the fact that I potentially needed to
+have more relevant papers in my research journal to talk more confidently about
+visual impairment in the gaming industry. For the worksheets, it was noted that
+I needed to re arrange and comment my code to make it easier to read and follow
+to make sure that anybody trying to maintain it would be able to do so quickly
+and efficiently.
+
